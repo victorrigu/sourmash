@@ -1,0 +1,5 @@
+1.fa.gz
+2.fa.gz
+3.fa.gz
+4.fa.gz
+5.fa.gz
